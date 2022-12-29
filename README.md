@@ -3,6 +3,7 @@
 ## My default configuration templates
 
 * gitirgnore
+* editorconfig
 * prettier
 * tailwind
 * typescript
